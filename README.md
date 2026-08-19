@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-<img src="./assets/banner-python.jpg">Course Python</img>
-=======
-<img src="./assets/python.jpg">Course Python</img>
->>>>>>> cbc0bf3ae7fa573c95807e465453f4848437f4bf
+
+<img src="./assets/python.png">Course Python</img>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
