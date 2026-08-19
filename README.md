@@ -1,8 +1,6 @@
-
 <img src="./assets/python.png">
 
-# Course Python
-
+   <h1> Course Python<h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -22,15 +20,12 @@
 ---
 
 
-## 🖼️ Sobre o projeto
-
 ##  Sobre o projeto
 
 
 > **Course-Python** é meu espaço de aprendizado e evolução na linguagem Python.
 
 Aqui registro minha trajetória desde os primeiros conceitos de programação até conteúdos voltados para **desenvolvimento backend, APIs, automação, manipulação de dados e boas práticas de software**.
-
 O objetivo não é apenas concluir um curso, mas transformar cada conteúdo estudado em **prática, código e projetos reais**.
 
 ```text
@@ -46,9 +41,6 @@ O objetivo não é apenas concluir um curso, mas transformar cada conteúdo estu
 ```
 
 ---
-
-
-## 🎯 Objetivos
 
 ## Objetivos
 
@@ -70,7 +62,7 @@ O objetivo não é apenas concluir um curso, mas transformar cada conteúdo estu
 
 A evolução está organizada por níveis para deixar claro o que estou aprendendo e onde quero chegar.
 
-### 🟢 Nível 01 — Fundamentos
+### 🟢 — Fundamentos
 
 **Status:** Em desenvolvimento
 
@@ -91,7 +83,7 @@ A evolução está organizada por níveis para deixar claro o que estou aprenden
 
 ---
 
-### 🔵 Nível 02 — Python Intermediário
+### 🔵  — Python Intermediário
 
 **Status:** Próximo passo
 
@@ -244,7 +236,6 @@ Cada projeto representa um novo nível de autonomia.
 
 
 Sou estudante de **Engenharia de Software**, com foco em desenvolvimento backend e interesse em construir sistemas, APIs e soluções utilizando boas práticas de engenharia de software.
-
 Atualmente, estou expandindo meus conhecimentos em diferentes tecnologias e utilizando projetos práticos para transformar conhecimento teórico em experiência.
 
 ### Atualmente estudando
