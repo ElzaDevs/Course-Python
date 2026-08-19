@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <img src="./assets/banner-python.jpg">Course Python</img>
+=======
+<img src="./assets/python.jpg">Course Python</img>
+>>>>>>> cbc0bf3ae7fa573c95807e465453f4848437f4bf
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -17,7 +21,11 @@
 
 ---
 
+<<<<<<< HEAD
 ## 🖼️ Sobre o projeto
+=======
+##  Sobre o projeto
+>>>>>>> cbc0bf3ae7fa573c95807e465453f4848437f4bf
 
 > **Course-Python** é meu espaço de aprendizado e evolução na linguagem Python.
 
@@ -39,7 +47,11 @@ O objetivo não é apenas concluir um curso, mas transformar cada conteúdo estu
 
 ---
 
+<<<<<<< HEAD
 ## 🎯 Objetivos
+=======
+## Objetivos
+>>>>>>> cbc0bf3ae7fa573c95807e465453f4848437f4bf
 
 * [x] Começar os estudos em Python
 * [x] Praticar lógica de programação
@@ -200,7 +212,11 @@ Course-Python/
 
 ---
 
+<<<<<<< HEAD
 # 🛠️ Tecnologias
+=======
+# Tecnologias
+>>>>>>> cbc0bf3ae7fa573c95807e465453f4848437f4bf
 
 | Tecnologia    | Utilização                |
 | ------------- | ------------------------- |
@@ -216,7 +232,11 @@ Course-Python/
 
 ---
 
+<<<<<<< HEAD
 # 🚀 Projetos
+=======
+# Projetos
+>>>>>>> cbc0bf3ae7fa573c95807e465453f4848437f4bf
 
 A melhor forma de demonstrar evolução é através de projetos.
 
@@ -230,7 +250,11 @@ A melhor forma de demonstrar evolução é através de projetos.
 
 ---
 
+<<<<<<< HEAD
 # 📊 Progresso
+=======
+#  Progresso
+>>>>>>> cbc0bf3ae7fa573c95807e465453f4848437f4bf
 
 ```text
 Python Fundamentals     ███████░░░  70%
@@ -245,7 +269,11 @@ Docker                  ░░░░░░░░░░   0%
 
 ---
 
+<<<<<<< HEAD
 # 🧩 Metodologia de estudo
+=======
+# Metodologia de estudo
+>>>>>>> cbc0bf3ae7fa573c95807e465453f4848437f4bf
 
 Meu aprendizado é baseado em **prática + construção de projetos**.
 
@@ -287,7 +315,11 @@ Cada projeto representa um novo nível de autonomia.
 
 ---
 
+<<<<<<< HEAD
 # 👩‍💻 Sobre mim
+=======
+# Sobre mim
+>>>>>>> cbc0bf3ae7fa573c95807e465453f4848437f4bf
 
 Sou estudante de **Engenharia de Software**, com foco em desenvolvimento backend e interesse em construir sistemas, APIs e soluções utilizando boas práticas de engenharia de software.
 
