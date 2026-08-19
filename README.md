@@ -21,11 +21,11 @@
 
 ---
 
-<<<<<<< HEAD
+
 ## 🖼️ Sobre o projeto
-=======
+
 ##  Sobre o projeto
->>>>>>> cbc0bf3ae7fa573c95807e465453f4848437f4bf
+
 
 > **Course-Python** é meu espaço de aprendizado e evolução na linguagem Python.
 
@@ -47,11 +47,10 @@ O objetivo não é apenas concluir um curso, mas transformar cada conteúdo estu
 
 ---
 
-<<<<<<< HEAD
+
 ## 🎯 Objetivos
-=======
+
 ## Objetivos
->>>>>>> cbc0bf3ae7fa573c95807e465453f4848437f4bf
 
 * [x] Começar os estudos em Python
 * [x] Praticar lógica de programação
@@ -109,76 +108,6 @@ A evolução está organizada por níveis para deixar claro o que estou aprenden
 
 ---
 
-### 🟣 Nível 03 — Orientação a Objetos
-
-**Status:** Planejado
-
-```text
-Classes
-   ↓
-Objetos
-   ↓
-Atributos
-   ↓
-Métodos
-   ↓
-Encapsulamento
-   ↓
-Herança
-   ↓
-Polimorfismo
-```
-
-Conteúdos:
-
-* Classes e objetos
-* Construtores
-* Métodos
-* Encapsulamento
-* Herança
-* Polimorfismo
-* Abstração
-* Composição
-
----
-
-### 🟠 Nível 04 — Backend
-
-**Status:** Roadmap
-
-* APIs REST
-* HTTP
-* JSON
-* FastAPI
-* Flask
-* Validação de dados
-* Autenticação
-* Integração com banco de dados
-* PostgreSQL
-* ORM
-* Arquitetura de aplicações
-* Documentação de APIs
-
----
-
-### 🔴 Nível 05 — Engenharia de Software
-
-**Status:** Objetivo
-
-* Clean Code
-* SOLID
-* Design Patterns
-* Testes unitários
-* Testes de integração
-* Git e GitHub
-* Docker
-* CI/CD
-* Boas práticas de arquitetura
-* Observabilidade
-* Segurança de APIs
-
----
-
 # 📂 Estrutura do repositório
 
 ```text
@@ -212,11 +141,9 @@ Course-Python/
 
 ---
 
-<<<<<<< HEAD
-# 🛠️ Tecnologias
-=======
+
 # Tecnologias
->>>>>>> cbc0bf3ae7fa573c95807e465453f4848437f4bf
+
 
 | Tecnologia    | Utilização                |
 | ------------- | ------------------------- |
@@ -232,11 +159,11 @@ Course-Python/
 
 ---
 
-<<<<<<< HEAD
+
 # 🚀 Projetos
-=======
+
 # Projetos
->>>>>>> cbc0bf3ae7fa573c95807e465453f4848437f4bf
+
 
 A melhor forma de demonstrar evolução é através de projetos.
 
@@ -250,12 +177,10 @@ A melhor forma de demonstrar evolução é através de projetos.
 
 ---
 
-<<<<<<< HEAD
-# 📊 Progresso
-=======
-#  Progresso
->>>>>>> cbc0bf3ae7fa573c95807e465453f4848437f4bf
 
+# 📊 Progresso
+
+#  Progresso
 ```text
 Python Fundamentals     ███████░░░  70%
 Data Structures         ████░░░░░░  40%
@@ -269,11 +194,9 @@ Docker                  ░░░░░░░░░░   0%
 
 ---
 
-<<<<<<< HEAD
-# 🧩 Metodologia de estudo
-=======
 # Metodologia de estudo
->>>>>>> cbc0bf3ae7fa573c95807e465453f4848437f4bf
+
+# Metodologia de estudo
 
 Meu aprendizado é baseado em **prática + construção de projetos**.
 
@@ -315,11 +238,10 @@ Cada projeto representa um novo nível de autonomia.
 
 ---
 
-<<<<<<< HEAD
-# 👩‍💻 Sobre mim
-=======
+
+
 # Sobre mim
->>>>>>> cbc0bf3ae7fa573c95807e465453f4848437f4bf
+
 
 Sou estudante de **Engenharia de Software**, com foco em desenvolvimento backend e interesse em construir sistemas, APIs e soluções utilizando boas práticas de engenharia de software.
 
