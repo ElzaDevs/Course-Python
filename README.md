@@ -17,7 +17,7 @@
 
 ---
 
-## 🖼️ Sobre o projeto
+##  Sobre o projeto
 
 > **Course-Python** é meu espaço de aprendizado e evolução na linguagem Python.
 
@@ -39,7 +39,7 @@ O objetivo não é apenas concluir um curso, mas transformar cada conteúdo estu
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 * [x] Começar os estudos em Python
 * [x] Praticar lógica de programação
@@ -200,7 +200,7 @@ Course-Python/
 
 ---
 
-# 🛠️ Tecnologias
+# Tecnologias
 
 | Tecnologia    | Utilização                |
 | ------------- | ------------------------- |
@@ -216,7 +216,7 @@ Course-Python/
 
 ---
 
-# 🚀 Projetos
+# Projetos
 
 A melhor forma de demonstrar evolução é através de projetos.
 
@@ -230,7 +230,7 @@ A melhor forma de demonstrar evolução é através de projetos.
 
 ---
 
-# 📊 Progresso
+#  Progresso
 
 ```text
 Python Fundamentals     ███████░░░  70%
@@ -245,7 +245,7 @@ Docker                  ░░░░░░░░░░   0%
 
 ---
 
-# 🧩 Metodologia de estudo
+# Metodologia de estudo
 
 Meu aprendizado é baseado em **prática + construção de projetos**.
 
@@ -287,7 +287,7 @@ Cada projeto representa um novo nível de autonomia.
 
 ---
 
-# 👩‍💻 Sobre mim
+# Sobre mim
 
 Sou estudante de **Engenharia de Software**, com foco em desenvolvimento backend e interesse em construir sistemas, APIs e soluções utilizando boas práticas de engenharia de software.
 
