@@ -1,5 +1,7 @@
 
-<img src="./assets/python.png">Course Python</img>
+<img src="./assets/python.png">
+
+# Course Python
 
 
 <p align="center">
